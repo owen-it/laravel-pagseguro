@@ -1,3 +1,5 @@
+> This package is just a fork of the artistas/laravel-pagseguro package to support laravel 7
+
 <p align="center"><img src="https://stc.pagseguro.uol.com.br/pagseguro/i/logos/logo_pagseguro200x41.png"></p>
 
 <p align="center">
