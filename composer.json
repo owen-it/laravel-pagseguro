@@ -1,5 +1,5 @@
 {
-    "name": "artistas/laravel-pagseguro",
+    "name": "owen-it/laravel-pagseguro",
     "description": "PagSeguro Checkout Transparente e Pagamento Recorrente(Assinaturas) no Laravel 5.*",
     "type": "library",
     "license": "MIT",
